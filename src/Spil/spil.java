@@ -27,6 +27,11 @@ public class spil {
         return faceValue;
     }
 
+    public int getSum();
+    {
+
+    }
+
     public toString()
     {
         String result = "øjne: " + faceValue;
